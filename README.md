@@ -2,7 +2,7 @@
 
 GraalVM NativeImage Decompilation/Reverse Tool
 
-Download this tool from the release
+Download this tool from the Releases area.
 
 Extract the archive, then execute
 
