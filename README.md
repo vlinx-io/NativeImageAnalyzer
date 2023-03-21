@@ -10,7 +10,8 @@ Extract the archive, then execute
 native-image-analyzer[.sh/.bat] <path>
 ```
 
-Due to the need to look up function names in the backend, Internet connection is required.
+**Due to the need to look up function names in the backend, Internet connection is required， and this query may take some time to complete.**.
+
 
 For a detailed description of this tool, 
 
