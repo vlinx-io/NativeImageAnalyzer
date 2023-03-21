@@ -7,7 +7,7 @@ Download this tool from the Releases area.
 Extract the archive, then execute
 
 ```bash
-native-image-analyzer <path>
+native-image-analyzer[.sh/.bat] <path>
 ```
 
 Due to the need to look up function names in the backend, Internet connection is required.
