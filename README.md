@@ -1,5 +1,9 @@
 # NativeImageAnalyzer
 
+`This tool is under maintenance now and the new version will be released soon, stay tuned`
+
+`当前产品正在维护中，近期会推出新版本，敬请期待`
+
 GraalVM NativeImage Decompilation/Reverse Tool
 
 Download this tool from the Releases area.
