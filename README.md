@@ -4,6 +4,8 @@
 
 `当前产品正在维护中，近期会推出新版本，敬请期待`
 
+<font color="red">这是红色文字</font>
+
 GraalVM NativeImage Decompilation/Reverse Tool
 
 Download this tool from the Releases area.
